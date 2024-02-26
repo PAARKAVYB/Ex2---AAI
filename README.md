@@ -70,6 +70,7 @@ print(result2)
 
 ## OUTPUT:
 ![output](op1.png)
+
 ![output](op2.png)
 
 ## RESULT :
